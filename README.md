@@ -25,8 +25,8 @@ By importing the open cv we can change image color.
 
 ## Program:
 
-## Developed By:B.NARENDRAN
-## Register Number:212222240069
+## Developed By:SUDHAKAR K
+## Register Number:212222240107
 
 ## i)Image Translation
 ```
